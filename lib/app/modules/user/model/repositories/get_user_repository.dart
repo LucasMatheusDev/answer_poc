@@ -1,7 +1,7 @@
-import 'package:answer_poc/app/user/model/data/get_user_data_source.dart';
-import 'package:answer_poc/app/user/model/entities/user.dart';
-import 'package:answer_poc/app/user/model/exceptions/rest_client_exception.dart';
-import 'package:answer_poc/app/user/model/exceptions/user_exception.dart';
+import 'package:answer_poc/app/modules/user/model/data/get_user_data_source.dart';
+import 'package:answer_poc/app/modules/user/model/entities/user.dart';
+import 'package:answer_poc/app/modules/user/model/exceptions/rest_client_exception.dart';
+import 'package:answer_poc/app/modules/user/model/exceptions/user_exception.dart';
 import 'package:answer_poc/app/core/answer.dart';
 
 class GetUserRepository {

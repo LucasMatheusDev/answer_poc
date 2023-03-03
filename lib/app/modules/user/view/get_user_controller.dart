@@ -1,7 +1,7 @@
 import 'dart:developer';
 
-import 'package:answer_poc/app/user/view/user_state.dart';
-import 'package:answer_poc/app/user/view_model/get_user_view_model.dart';
+import 'package:answer_poc/app/modules/user/view/user_state.dart';
+import 'package:answer_poc/app/modules/user/view_model/get_user_view_model.dart';
 import 'package:flutter/cupertino.dart';
 
 class GetUserController {

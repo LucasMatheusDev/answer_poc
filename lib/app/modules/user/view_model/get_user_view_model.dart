@@ -1,6 +1,6 @@
-import 'package:answer_poc/app/user/model/entities/user.dart';
-import 'package:answer_poc/app/user/model/exceptions/user_exception.dart';
-import 'package:answer_poc/app/user/model/repositories/get_user_repository.dart';
+import 'package:answer_poc/app/modules/user/model/entities/user.dart';
+import 'package:answer_poc/app/modules/user/model/exceptions/user_exception.dart';
+import 'package:answer_poc/app/modules/user/model/repositories/get_user_repository.dart';
 import 'package:answer_poc/app/core/answer.dart';
 
 class GetUserViewModel {

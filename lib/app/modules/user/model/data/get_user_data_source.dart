@@ -1,5 +1,5 @@
-import 'package:answer_poc/app/user/model/entities/user.dart';
-import 'package:answer_poc/app/user/model/exceptions/rest_client_exception.dart';
+import 'package:answer_poc/app/modules/user/model/entities/user.dart';
+import 'package:answer_poc/app/modules/user/model/exceptions/rest_client_exception.dart';
 
 class GetUserDataSource {
   Future<User> getUser(String id) async {

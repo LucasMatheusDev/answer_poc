@@ -1,8 +1,8 @@
-import 'package:answer_poc/app/user/model/data/get_user_data_source.dart';
-import 'package:answer_poc/app/user/model/repositories/get_user_repository.dart';
-import 'package:answer_poc/app/user/view/get_user_controller.dart';
-import 'package:answer_poc/app/user/view/get_user_page.dart';
-import 'package:answer_poc/app/user/view_model/get_user_view_model.dart';
+import 'package:answer_poc/app/modules/user/model/data/get_user_data_source.dart';
+import 'package:answer_poc/app/modules/user/model/repositories/get_user_repository.dart';
+import 'package:answer_poc/app/modules/user/view/get_user_controller.dart';
+import 'package:answer_poc/app/modules/user/view/get_user_page.dart';
+import 'package:answer_poc/app/modules/user/view_model/get_user_view_model.dart';
 import 'package:flutter/material.dart';
 
 void main() {

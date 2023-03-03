@@ -1,5 +1,5 @@
-import 'package:answer_poc/app/user/view/get_user_controller.dart';
-import 'package:answer_poc/app/user/view/user_state.dart';
+import 'package:answer_poc/app/modules/user/view/get_user_controller.dart';
+import 'package:answer_poc/app/modules/user/view/user_state.dart';
 import 'package:flutter/material.dart';
 
 class GetUserPage extends StatelessWidget {
